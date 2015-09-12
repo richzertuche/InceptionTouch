@@ -28,7 +28,7 @@ class ViewController: UIViewController, InceptionTouchDelegate {
         //Type 0 - Date
         //Type 1 - Phone Numer
         //Type 2 - URL
-        //Type 3 - Optional[Addres]
+        //Type 3 - Optional[Address]
         println("\(type) - \(link)")
         
         if type == 2{
