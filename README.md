@@ -1,4 +1,4 @@
-# ZSeatSelector
+# InceptionTouch
 
 <h6>Swift / 3DTouch for Every Device</h6>
 
