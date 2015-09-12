@@ -12,7 +12,7 @@ protocol InceptionTouchDelegate {
     func typeOfLink(type: Int, link: String)
 }
 
-class InceptionTocuh: UITextView, UITextViewDelegate {
+class InceptionTouch: UITextView, UITextViewDelegate {
     
     var inceptionTouchDelegate: InceptionTouchDelegate?
     
