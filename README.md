@@ -41,7 +41,7 @@ func typeOfLink(type: Int, link: String) {
 }
 ```
 
-**The popover was added at the bottom, custom made to show the webview, butt you can do whatever you like with the type returned by the delegate.**
+**The popover was added at the bottom, custom made to show the webview, but you can do whatever you like with the type returned by the delegate.**
 
 Hope you find it useful.
 <br>
