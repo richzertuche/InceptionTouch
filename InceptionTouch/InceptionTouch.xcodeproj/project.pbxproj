@@ -159,6 +159,8 @@
 		0F32E10F1BA46C7300C89FB1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Ricardo Zertuche";
 				TargetAttributes = {
@@ -413,6 +415,7 @@
 				0F32E1381BA46C7400C89FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F32E1391BA46C7400C89FB1 /* Build configuration list for PBXNativeTarget "InceptionTouchTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +424,7 @@
 				0F32E13B1BA46C7400C89FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

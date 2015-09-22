@@ -29,7 +29,7 @@ class ViewController: UIViewController, InceptionTouchDelegate {
         //Type 1 - Phone Numer
         //Type 2 - URL
         //Type 3 - Optional[Address]
-        println("\(type) - \(link)")
+        print("\(type) - \(link)", terminator: "")
         
         if type == 2{
             self.showPreview(it_be!, link: link)
@@ -68,7 +68,7 @@ class CustomPop: UIViewController, UIPopoverPresentationControllerDelegate {
         self.popoverPresentationController?.delegate = self;
     }
     
-    required init(coder aDecoder: NSCoder) {
+    required init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
     
